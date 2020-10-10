@@ -26,4 +26,20 @@
     * Change classes of sections to 'solid' for solid color or 'image' for image background.
 
 **Sections**
-* Top - Optional image - change class to 'On'
+* Title - Optional image - change class to 'On'
+* Menu - 
+* Products - 
+* Projects - 
+* Gallery - 
+* Tracks - 
+* YouTube - 
+* Twitch - 
+* About - 
+* Reviews - 
+* Services - 
+* Staff - 
+* Brands - 
+* Map - 
+* Donations - 
+* Contacts - 
+* Social - 
