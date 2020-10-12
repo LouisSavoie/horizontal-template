@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+}
+
+/* --------------- */
+/* General Utility */
+/* --------------- */
+
+/* Dispay */
+
+.on {
+    display: unset;
+}
+
+.off {
+    display: none;
+}
+
+/* Text */
+
+.light {
+    color: black;
+}
+
+.dark {
+    color: white;
+}
+
+/* Order */
+
+.o1 {
+    order: 1;
+}
+
+.o2 {
+    order: 2;
+}
+
+.o3{
+    order: 3;
+}
+
+.o4 {
+    order: 4;
+}
+
+.o5 {
+    order: 5;
+}
+
+.o6 {
+    order: 6;
+}
+
+.o7 {
+    order: 7;
+}
+
+.o8 {
+    order: 8;
+}
+
+.o9 {
+    order: 9;
+}
+
+.o10 {
+    order: 10;
+}
+
+.o11 {
+    order: 11;
+}
+
+.o12 {
+    order: 12;
+}
+
+.o13 {
+    order: 13;
+}
+
+.o14 {
+    order: 14;
+}
+
+.o15 {
+    order: 15;
+}
+
+.o16 {
+    order: 16;
+}
+
+.o17 {
+    order: 17;
+}
+
+.o18 {
+    order: 18;
+}
+
+.o19 {
+    order: 19;
+}
+
+.o20 {
+    order: 20;
+}
+
+.o100 {
+    order: 100;
+}
+
+/* -------- */
+/*  Header  */
+/* -------- */
+
+
+
+/* -------- */
+/*   Main   */
+/* -------- */
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+/* -------- */
+/* Sections */
+/* -------- */
+
+section {
+    height: 300px;
+    padding: 0 15%;
+}
+
+/* Title Section */
+
+#title {
+    height: 100vh;
+}
+
+#title.solid {
+    background: rgb(255, 255, 255);
+}
+
+#title.img {
+    background-image: url(/images/titlebg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Menu Section */
+
+#menu {
+    
+}
+
+#menu.solid {
+    background: rgb(255, 255, 255);
+}
+
+#menu.img {
+    background-image: url(/images/menubg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
