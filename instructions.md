@@ -35,6 +35,7 @@
 * Title - Optional image - change class to 'On'
 * Menu - 
 * Products - 
+* Services - 
 * Projects - 
 * Gallery - 
 * Tracks - 
@@ -42,7 +43,6 @@
 * Twitch - 
 * About - 
 * Reviews - 
-* Services - 
 * Staff - 
 * Brands - 
 * Map - 
