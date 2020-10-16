@@ -17,7 +17,7 @@
 5. *Font Awesome CDN* - replace the CDN with your own Font Awesome Kit. [Link](https://fontawesome.com/)
 6. Header(Navbar)
     * Replace text for h1.
-    * Change classes of Nav items to 'on' if you are using it's corrisponding section or 'off' if you are not.
+    * Change classes of Nav items to 'off' if you are not using it's corrisponding section.
     * Change classes of Nav items to 'o1' - 'o20' to reorder them. Set to 'o100' to send to the end.
     * Change class of Header to 'stay' for a header to stay at the top of the page, leave as 'move' for Header to stay at the top of the window.
 7. Topinfo
@@ -27,13 +27,18 @@
 8. All Sections (being used)
     * Replace text
     * Replace images
-    * Change classes of sections to 'on' if you are using it or 'off' if you are not.
+    * Change classes of sections to 'off' if you are not using them.
     * Change classes of sections to 'solid' for solid color or 'image' for image background.
     * Change classes of sections to 'o1' - 'o20' to reorder them. Set to 'o100' to send to the bottom.
+    * Change classes of any elements to 'off' to hide them.
 
 **Sections**
-* Title - Optional image - change class to 'On'
-* Menu - 
+* Title
+    * image - Logo.
+    * h2 - Brand or other title.
+    * p - Quote, slogan, or message.
+* Menu
+    * 
 * Products - 
 * Services - 
 * Projects - 
