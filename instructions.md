@@ -20,6 +20,7 @@
     * Change classes of Nav items to 'off' if you are not using it's corrisponding section.
     * Change classes of Nav items to 'o1' - 'o20' to reorder them. Set to 'o100' to send to the end.
     * Change class of Header to 'stay' for a header to stay at the top of the page, leave as 'move' for Header to stay at the top of the window.
+    * IF HEADER STAYS - Change class of header to 'dark' to get dark text if using a light background on title section or 'light' for light text if using a dark background on title section.
 7. Topinfo
     * Replace href for Google Maps. (Navigate to your location on Google Maps then click on the Menu then 'Share or embed map' then 'COPY LINK'. Paste link into href.)
     * Replace href for Email with 'mailto:' + your email address.
@@ -30,6 +31,7 @@
     * Change classes of sections to 'off' if you are not using them.
     * Change classes of sections to 'solid' for solid color or 'image' for image background.
     * Change classes of sections to 'o1' - 'o20' to reorder them. Set to 'o100' to send to the bottom.
+    * Change classes of sections to 'dark' to get dark text for light backgrounds or 'light' for light text on dark backgrounds.
     * Change classes of any elements to 'off' to hide them.
 
 **Sections**
@@ -54,3 +56,9 @@
 * Donations - 
 * Contacts - 
 * Social - 
+
+## style.css
+
+**General**
+1. All Sections (being used)
+    * replace background images if section set to class 'img' in index.html.
